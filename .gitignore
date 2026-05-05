@@ -1,0 +1,45 @@
+# Virtual env
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Pytest
+.pytest_cache/
+
+# Local env files
+.env
+.env.*
+
+# Artifacts and data
+data/processed/
+src/artifacts/
+train.log
+
+# Streamlit cache
+.streamlit/
+.venv/
+__pycache__/
+*.pyc
+data/
+models/
+*.h5
+*.pth
+.env
+.ipynb_checkpoints/
+.DS_Store
